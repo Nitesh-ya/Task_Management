@@ -1,4 +1,4 @@
-# Kanban Board
+# Task Management 
 
 A lightweight task management tool to organize tasks into different columns.
 
